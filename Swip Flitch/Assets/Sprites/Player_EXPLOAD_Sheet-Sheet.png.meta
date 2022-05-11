@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 26e4cae25dcef6b43a13e29184158ea8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1087064515751314882
+    second: Player_EXPLOAD_Sheet-Sheet_0
+  - first:
+      213: 7091255166558765682
+    second: Player_EXPLOAD_Sheet-Sheet_1
+  - first:
+      213: 5946650344409731954
+    second: Player_EXPLOAD_Sheet-Sheet_2
+  - first:
+      213: -8217308302278046825
+    second: Player_EXPLOAD_Sheet-Sheet_3
+  - first:
+      213: 7914667724132883883
+    second: Player_EXPLOAD_Sheet-Sheet_4
+  - first:
+      213: -4440223429443805219
+    second: Player_EXPLOAD_Sheet-Sheet_5
+  - first:
+      213: -267206023915470008
+    second: Player_EXPLOAD_Sheet-Sheet_6
+  - first:
+      213: -2437823673174867968
+    second: Player_EXPLOAD_Sheet-Sheet_7
+  - first:
+      213: -6134822366419092427
+    second: Player_EXPLOAD_Sheet-Sheet_8
+  - first:
+      213: -7836754648330264207
+    second: Player_EXPLOAD_Sheet-Sheet_9
+  - first:
+      213: 198323084990730101
+    second: Player_EXPLOAD_Sheet-Sheet_10
+  - first:
+      213: 4855778043009587186
+    second: Player_EXPLOAD_Sheet-Sheet_11
+  - first:
+      213: -1497955093317436062
+    second: Player_EXPLOAD_Sheet-Sheet_12
+  - first:
+      213: -407157060055155729
+    second: Player_EXPLOAD_Sheet-Sheet_13
+  - first:
+      213: -2737454454408990070
+    second: Player_EXPLOAD_Sheet-Sheet_14
+  - first:
+      213: 4173736697788167654
+    second: Player_EXPLOAD_Sheet-Sheet_15
+  - first:
+      213: -63194798788441107
+    second: Player_EXPLOAD_Sheet-Sheet_16
+  - first:
+      213: -2470526436967372418
+    second: Player_EXPLOAD_Sheet-Sheet_17
+  - first:
+      213: -1754782355923928670
+    second: Player_EXPLOAD_Sheet-Sheet_18
+  - first:
+      213: -919149856225416591
+    second: Player_EXPLOAD_Sheet-Sheet_19
+  - first:
+      213: 8534945931403756149
+    second: Player_EXPLOAD_Sheet-Sheet_20
+  - first:
+      213: 2577134139821062722
+    second: Player_EXPLOAD_Sheet-Sheet_21
+  - first:
+      213: 2501925113889314063
+    second: Player_EXPLOAD_Sheet-Sheet_22
+  - first:
+      213: -3581662261126623270
+    second: Player_EXPLOAD_Sheet-Sheet_23
+  - first:
+      213: -842358229935712832
+    second: Player_EXPLOAD_Sheet-Sheet_24
+  - first:
+      213: -6250561737976463473
+    second: Player_EXPLOAD_Sheet-Sheet_25
+  - first:
+      213: 6137561095127363805
+    second: Player_EXPLOAD_Sheet-Sheet_26
+  - first:
+      213: -7338692736786358113
+    second: Player_EXPLOAD_Sheet-Sheet_27
+  - first:
+      213: 5433212869617203703
+    second: Player_EXPLOAD_Sheet-Sheet_28
+  - first:
+      213: -7446037556550860249
+    second: Player_EXPLOAD_Sheet-Sheet_29
+  - first:
+      213: 2138851277482491571
+    second: Player_EXPLOAD_Sheet-Sheet_30
+  - first:
+      213: -7708038253629603779
+    second: Player_EXPLOAD_Sheet-Sheet_31
+  - first:
+      213: 877764838057078559
+    second: Player_EXPLOAD_Sheet-Sheet_32
+  - first:
+      213: -7590808128892022524
+    second: Player_EXPLOAD_Sheet-Sheet_33
+  - first:
+      213: -1589656929956963702
+    second: Player_EXPLOAD_Sheet-Sheet_34
+  - first:
+      213: 2876899079686195101
+    second: Player_EXPLOAD_Sheet-Sheet_35
+  - first:
+      213: -7884757572284149955
+    second: Player_EXPLOAD_Sheet-Sheet_36
+  - first:
+      213: 8245514474976832819
+    second: Player_EXPLOAD_Sheet-Sheet_37
+  - first:
+      213: 3882413068646583858
+    second: Player_EXPLOAD_Sheet-Sheet_38
+  - first:
+      213: -4903936285108090464
+    second: Player_EXPLOAD_Sheet-Sheet_39
+  - first:
+      213: 8356366130513473573
+    second: Player_EXPLOAD_Sheet-Sheet_40
+  - first:
+      213: -2092995417811740050
+    second: Player_EXPLOAD_Sheet-Sheet_41
+  - first:
+      213: 9161731318711339701
+    second: Player_EXPLOAD_Sheet-Sheet_42
+  - first:
+      213: 3721431431769011131
+    second: Player_EXPLOAD_Sheet-Sheet_43
+  - first:
+      213: 3697690524449611427
+    second: Player_EXPLOAD_Sheet-Sheet_44
+  - first:
+      213: 1008370942611293840
+    second: Player_EXPLOAD_Sheet-Sheet_45
+  - first:
+      213: -6664033368031362470
+    second: Player_EXPLOAD_Sheet-Sheet_46
+  - first:
+      213: -1276157135689794698
+    second: Player_EXPLOAD_Sheet-Sheet_47
+  - first:
+      213: 4195594908484062068
+    second: Player_EXPLOAD_Sheet-Sheet_48
+  - first:
+      213: 4002261450244093957
+    second: Player_EXPLOAD_Sheet-Sheet_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_EXPLOAD_Sheet-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 17
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cf779bf8bbcdaa0800000000000000
+      internalID: -6134822366419092427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_EXPLOAD_Sheet-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 17
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febbe93afcc795af0800000000000000
+      internalID: -407157060055155729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_EXPLOAD_Sheet-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 10
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c51e0327a75f44f0800000000000000
+      internalID: -842358229935712832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_EXPLOAD_Sheet-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 5
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f68b838727e2c00800000000000000
+      internalID: 877764838057078559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
